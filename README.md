@@ -1,6 +1,6 @@
 # 操作系统
 
-[Chapter01 操作系统简介](##Chapter01 操作系统简介)
+[Chapter01 操作系统简介](#Chapter01操作系统简介)
 
 [Chapter02 进程和线程](#Chapter02 进程和线程)
 
@@ -12,7 +12,7 @@
 
 [Chapter06 文件系统](#Chapter06 文件系统)
 
-## Chapter01 操作系统简介
+## Chapter01操作系统简介
 
 *什么是操作系统*
 
